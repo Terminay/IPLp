@@ -1,6 +1,6 @@
-<center>
+<div align="center">
 
-<h1> IPLp : IPL Match Predictor </h1>
+<h1>IPLp : IPL Match Predictor</h1>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=flat-square">
@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/last-commit/Terminay/IPLp?style=flat-square">
 </p>
 
-</center>
+</div>
 
 This is a learning project for ML. It has the ability to predict IPL winners by watching previous year data upto 2024, although many things have changed since then in cricket.
 
